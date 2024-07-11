@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iancatez
-- 👀 I’m interested in Web Dev, DevOps, C#, Python
-- 🌱 I’m currently learning HTMX, React, Next.js
+- 👋 Hi, I’m Ian Cates
+- 👀 I’m interested in React, Serverless Architecture, Python, React, C#
+- 🌱 I’m currently learning React, Next.js
 - 💞️ I’m looking to collaborate on nothing currently!
 
 <!---
